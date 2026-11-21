@@ -25,7 +25,7 @@ function Header() {
         <a href="#platform" onClick={() => setOpen(false)}>Platform</a>
         <a href="#modes" onClick={() => setOpen(false)}>Operating modes</a>
         <a href="#controls" onClick={() => setOpen(false)}>Controls</a>
-        <a className="nav-cta" href="https://discord.gg/BmA228EBk7" onClick={() => setOpen(false)}>Request access <Arrow /></a>
+        <a className="nav-cta" href=" https://discord.gg/crV5nQAm4t" onClick={() => setOpen(false)}>Request access <Arrow /></a>
       </nav>
     </header>
   )
@@ -137,7 +137,7 @@ export function ArceusHome() {
       <footer className="footer">
         <a className="footer-brand" href="#top">ARCEUS-X<span>AUTONOMOUS RED-TEAM ENGINE</span></a>
         <p>AI security. Within your boundaries.</p>
-        <div><a href="#platform">Platform</a><a href="#controls">Control plane</a><a href="https://discord.gg/BmA228EBk7">Contact</a></div>
+        <div><a href="#platform">Platform</a><a href="#controls">Control plane</a><a href=" https://discord.gg/crV5nQAm4t">Contact</a></div>
         <small>© 2026 Arceus-X. Authorized testing. Human oversight.</small>
       </footer>
     </main>
