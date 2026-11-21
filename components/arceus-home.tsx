@@ -131,7 +131,7 @@ export function ArceusHome() {
         <p className="eyebrow light">A stronger posture starts with clarity</p>
         <h2>Test with purpose.<br /><em>Stay in control.</em></h2>
         <p>Bring governed AI into your security workflow.</p>
-        <a className="button button-light" href="https://discord.gg/BmA228EBk7">Talk to our team <Arrow /></a>
+        <a className="button button-light" href="https://discord.gg/crV5nQAm4t">Talk to our team <Arrow /></a>
       </section>
 
       <footer className="footer">
